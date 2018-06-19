@@ -14,7 +14,7 @@ Checkstyle is a development tool to help programmers write Java code that adhere
 * Preferences → Other Settings → Checkstyle
   * Select checkstyle version 8.8
   * Select "Only Java sources (including tests) in the "Scan Scope" dropdown
-  * Click "Apply"
+  * Click "Add"
   * Select "Use a checkstyle file accessible via HTTP" with the raw github URL to [Cortical_io_Checkstyle.xml](https://raw.githubusercontent.com/cortical-io/cortical-io-coding-standards/master/checkstyle/Cortical_io_Checkstyle.xml)
 
 # Code Style
