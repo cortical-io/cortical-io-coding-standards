@@ -1,4 +1,4 @@
-# cortical-coding-standards
+# Cortical.io Coding Standards
 
 Checkstyle is integrated in the Cortical.io build process to ensure adherence to our coding standards. 
 
