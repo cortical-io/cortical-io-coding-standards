@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <!DOCTYPE module PUBLIC
   "-//Puppy Crawl//DTD Check Configuration 1.3//EN"
-  "http://checkstyle.sourceforge.net/dtds/configuration_1_3.dtd">
+  "https://raw.githubusercontent.com/cortical-io/cortical-io-coding-standards/master/checkstyle/configuration_1_3.dtd">
 
 <!--
     Checkstyle configuration that checks the Google coding conventions from Google Java Style
